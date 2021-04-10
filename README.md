@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prathmeshjagtap
 - 👀 I’m interested in ...  coding  mostly Web Development ! 
 - 🌱 I’m currently learning ... MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... You can reach me on my website  https://prathmesh-jagtap.netlify.app/
 
 <!---
