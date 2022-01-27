@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/prathmesh_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathmesh_20" height="30" width="40" /></a>
 <a href="https://instagram.com/prathmesh_jagtap_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prathmesh_jagtap_" height="30" width="40" /></a>
-<a href="https://hashnode.com/prathmesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="prathmesh" height="30" width="40" /></a>
+<a href="https://hashnode.com/prathmesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@Prathmesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
